@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697882190070",
+    "project_id": "mini-ecommerce-9141f",
+    "storage_bucket": "mini-ecommerce-9141f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697882190070:android:ef32ee66a10713b7164cd7",
+        "android_client_info": {
+          "package_name": "com.example.mini_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697882190070-gubtdlhmrtbpcufmhth9ds09fdk6mobr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNI0Sicn_VBSKwOp3g5FcoVPbgNDc1aMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697882190070-gubtdlhmrtbpcufmhth9ds09fdk6mobr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
